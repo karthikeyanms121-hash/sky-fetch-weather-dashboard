@@ -198,4 +198,4 @@ WeatherApp.prototype.displayForecast = function (data) {
 // ===============================
 // Create App Instance
 // ===============================
-const app = new WeatherApp("YOUR_API_KEY");
+const app = new WeatherApp("1a32acdcd4beaeb8f5220cb47579d176");
